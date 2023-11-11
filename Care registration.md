@@ -10,5 +10,6 @@
 <li><strong>Model (Required)</strong></li>
 <li><strong>Color (Required)</strong></li>
 <li><strong>Numbers (Required)</strong></li>
+<li><strong>Smoking (Reuired)</strong></li>
 </ul>
 
